@@ -14,19 +14,31 @@ nav {
 
 }
 
+<<<<<<< HEAD
 li {
+=======
+nav li {
+>>>>>>> 80ac89f01c7eef604809629b3422ff023d220d98
     display: inline;
     margin: 80px;
 
 }
 
+<<<<<<< HEAD
 li a {
+=======
+nav li a {
+>>>>>>> 80ac89f01c7eef604809629b3422ff023d220d98
     text-decoration: none;
     font-weight: bolder;
 }
 
+<<<<<<< HEAD
 #first,
 #third {
+=======
+#first {
+>>>>>>> 80ac89f01c7eef604809629b3422ff023d220d98
     font-family: Arial, Helvetica, sans-serif;
     display: inline-block;
     text-align: center;
